@@ -1,1 +1,3 @@
-# Sails-DemoProject-26082017
+# DemoSails
+
+a [Sails](http://sailsjs.org) application
